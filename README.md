@@ -2,7 +2,7 @@
 
 # All problem sets could be found here:
 
-[Statistical mechanics 2026](https://liwo.strony.ug.edu.pl/DigitChem/index.html)
+[Statistical mechanics in Biological Macromolecules 2026/2027](https://liwo.strony.ug.edu.pl/DigitChem/index.html)
 
 ***Sets included:***
 
