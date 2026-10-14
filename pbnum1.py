@@ -20,7 +20,6 @@ delta_E = R * T * math.log(97)  # J/mol
 delta_E_kJ = delta_E / 1000  # kJ/mol
 delta_E_kcal = delta_E / 4184  # kcal/mol
 
-print("--- Problem 1 ---")
 print(f"Energy difference (Delta E): {delta_E:.2f} J/mol")
 print(f"Energy difference (Delta E): {delta_E_kJ:.2f} kJ/mol")
 print(f"Energy difference (Delta E): {delta_E_kcal:.2f} kcal/mol\n")
